@@ -1,2 +1,5 @@
 # daily_jiin
-To record that my emotions are alive
+일기의 규칙.
+1. 주제는 항상 [자기 개발, 코딩]
+2. 10줄 이상 넘어가지 않도록 간결하게 작성.
+   
